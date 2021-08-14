@@ -1,2 +1,2 @@
-# goit-markup-hw-02
-homework02
+# goit-markup-hw-01
+Разметка страницы Web Studio
